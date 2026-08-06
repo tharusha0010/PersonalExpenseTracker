@@ -1,10 +1,4 @@
-ඔයාගේ ඇත්තම GitHub ලින්ක් එක පාවිච්චි කරලා මම සම්පූර්ණ `README.md` කෝඩ් එක අප්ඩේට් කළා.
 
-Installation කොටසේ තියෙන `git clone` කමාන්ඩ් එක වගේම, ෆෝල්ඩර් වල නම් (CoinSync වෙනුවට PersonalExpenseTracker) හැමදෙයක්ම මේකට ගැළපෙන්නම මම වෙනස් කරලා තියෙනවා.
-
-මේ සම්පූර්ණ කෝඩ් එක කොපි කරලා ඔයාගේ `README.md` ෆයිල් එකට දාලා සේව් කරන්න.
-
-```markdown
 # 💰 Personal Expense Tracker (CoinSync)
 
 ### Advanced Personal Finance & Cloud Synchronization System
@@ -161,4 +155,3 @@ User Interaction (Android UI)
 
 ```
 
-```
